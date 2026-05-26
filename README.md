@@ -15,8 +15,9 @@ It's a streamlit-based AI nutrition assistant that analyzes user meals and diet 
 - Interactive UI
 
 ## Project Screenshots
-## 📸 Project Screenshots
+Picture 1 Nutrition Coach.PNG and Picture 2 Nutrition Coach.PNG uploade above
+## Project Screenshots
 
-![Nutrition Coach 1](Picture%201%20Nutrition%20Coach.png)
+![Nutrition Coach 1](pic1.png)
 
-![Nutrition Coach 2](Picture%202%20nutrition%20Coach.png)
+![Nutrition Coach 2](pic2.png)
