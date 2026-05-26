@@ -1,0 +1,92 @@
+food_name,category,calories,protein_g,carbs_g,fat_g,fiber_g,sugar_g,sodium_mg,calcium_mg,iron_mg
+green tea,Beverages,1,0.2,0,0,0,0,1,0,0.02
+orange juice,Beverages,45,0.7,10.4,0.2,0.2,8.4,1,11,0.2
+butter,Dairy,717,0.9,0.1,81.1,0,0.1,576,24,0.02
+cheddar cheese,Dairy,403,25,1.3,33.1,0,0.5,621,710,0.68
+cottage cheese,Dairy,98,11.1,3.4,4.3,0,2.7,364,83,0.15
+cream cheese,Dairy,342,6.2,4.1,34.2,0,3.8,321,98,0.11
+greek yogurt,Dairy,59,10.2,3.6,0.4,0,3.2,36,111,0.07
+low fat yogurt,Dairy,63,5.3,7,1.5,0,7,70,183,0.08
+mozzarella,Dairy,280,28,2.2,17.1,0,1,627,505,0.44
+skimmed milk,Dairy,34,3.4,5,0.2,0,5,52,122,0.03
+whole milk,Dairy,61,3.2,4.8,3.3,0,4.8,44,113,0.03
+egg white,Eggs,52,10.9,0.7,0.2,0,0.7,166,7,0.08
+egg whole,Eggs,155,13,1.1,10.6,0,1.1,124,56,1.75
+egg yolk,Eggs,322,15.9,3.6,26.5,0,3.6,48,129,2.73
+coconut oil,Fats & Oils,862,0,0,100,0,0,0,1,0.05
+olive oil,Fats & Oils,884,0,0,100,0,0,2,1,0.56
+apple,Fruits,52,0.3,13.8,0.2,2.4,10.4,1,6,0.12
+avocado,Fruits,160,2,8.5,14.7,6.7,0.7,7,12,0.55
+banana,Fruits,89,1.1,23,0.3,2.6,12.2,1,5,0.26
+grapes,Fruits,69,0.7,18.1,0.2,0.9,15.5,2,10,0.36
+mango,Fruits,60,0.8,15,0.4,1.6,13.7,1,11,0.16
+orange,Fruits,47,0.9,11.8,0.1,2.4,9.4,0,40,0.1
+pineapple,Fruits,50,0.5,13.1,0.1,1.4,9.9,1,13,0.29
+strawberry,Fruits,32,0.7,7.7,0.3,2,4.9,1,16,0.41
+watermelon,Fruits,30,0.6,7.6,0.2,0.4,6.2,1,7,0.24
+brown rice cooked,Grains & Cereals,112,2.6,23.5,0.9,1.8,0.4,5,10,0.52
+corn flakes,Grains & Cereals,357,7.5,84,0.4,2.4,8,730,3,8.3
+oatmeal cooked,Grains & Cereals,68,2.4,12,1.4,1.7,0.3,49,11,0.7
+pasta cooked,Grains & Cereals,131,5,25.1,1.1,1.8,0.6,1,7,0.67
+quinoa cooked,Grains & Cereals,120,4.4,21.3,1.9,2.8,0.9,7,17,1.49
+white bread,Grains & Cereals,265,9,50.6,3.2,2.3,5,490,77,3
+white rice cooked,Grains & Cereals,130,2.7,28.2,0.3,0.4,0,1,10,0.2
+whole wheat bread,Grains & Cereals,247,13,41.3,3.4,6.9,5.6,400,107,3.6
+black beans cooked,Legumes,132,8.9,23.7,0.5,8.7,0.3,1,27,2.1
+chickpeas cooked,Legumes,164,8.9,27.4,2.6,7.6,4.8,7,49,2.89
+kidney beans cooked,Legumes,127,8.7,22.8,0.5,7.4,0.3,2,28,2.21
+lentils cooked,Legumes,116,9,20.1,0.4,7.9,1.8,2,19,3.33
+peanut butter,Legumes,588,25.1,20.1,50.4,6,9.2,459,49,1.74
+soybeans cooked,Legumes,173,16.6,9.9,9,6,3,1,102,2.97
+tofu firm,Legumes,76,8.1,1.9,4.2,0.3,0.5,7,201,1.61
+chicken breast,Meat & Poultry,165,31,0,3.6,0,0,74,15,1.04
+ground beef 80%,Meat & Poultry,254,17.2,0,20,0,0,75,18,2.09
+lamb chop,Meat & Poultry,294,24.5,0,21,0,0,72,17,2
+pork tenderloin,Meat & Poultry,143,26,0,3.5,0,0,57,19,1.1
+turkey breast,Meat & Poultry,189,28.6,0,7.4,0,0,63,21,1.39
+almonds,Nuts & Seeds,579,21.2,21.6,49.9,12.5,4.4,1,264,3.71
+cashews,Nuts & Seeds,553,18.2,30.2,43.8,3.3,5.9,12,37,6.68
+chia seeds,Nuts & Seeds,486,16.5,42.1,30.7,34.4,0,16,631,7.72
+flax seeds,Nuts & Seeds,534,18.3,28.9,42.2,27.3,1.5,30,255,5.73
+sunflower seeds,Nuts & Seeds,584,20.8,20,51.5,8.6,2.6,9,78,5.25
+walnuts,Nuts & Seeds,654,15.2,13.7,65.2,6.7,2.6,2,98,2.91
+salmon fillet,Seafood,208,20.4,0,13.4,0,0,59,12,0.8
+shrimp,Seafood,85,18,0.9,0.9,0,0,119,52,0.52
+tuna canned,Seafood,116,25.5,0,1,0,0,337,10,1.3
+dark chocolate 70%,Snacks,598,7.8,45.9,42.6,10.9,24,20,73,11.9
+protein bar,Snacks,370,20,45,10,5,18,210,200,3.6
+whole grain crackers,Snacks,429,9,71,14,5,3.5,560,40,3.6
+whey protein powder,Supplements,375,75,9,5,0.5,5,150,200,1
+bell pepper red,Vegetables,31,1,6,0.3,2.1,4.2,4,7,0.43
+broccoli,Vegetables,34,2.8,6.6,0.4,2.6,1.7,33,47,0.73
+carrot,Vegetables,41,0.9,9.6,0.2,2.8,4.7,69,33,0.3
+cucumber,Vegetables,15,0.7,3.6,0.1,0.5,1.7,2,16,0.28
+garlic,Vegetables,149,6.4,33.1,0.5,2.1,1,17,181,1.7
+onion,Vegetables,40,1.1,9.3,0.1,1.7,4.2,4,23,0.21
+potato,Vegetables,77,2,17.5,0.1,2.2,0.8,6,12,0.81
+spinach,Vegetables,23,2.9,3.6,0.4,2.2,0.4,79,99,2.71
+sweet potato,Vegetables,86,1.6,20.1,0.1,3,4.2,55,30,0.61
+tomato,Vegetables,18,0.9,3.9,0.2,1.2,2.6,5,10,0.27
+chapati,Grains & Cereals,297,9.1,49,7.5,11,2.5,400,40,3.3
+boiled egg,Eggs,155,13,1.1,10.6,0,1.1,124,56,1.8
+fried egg,Eggs,196,13,1.5,15,0,1.5,200,60,1.9
+chicken kabab,Meat & Poultry,220,18,5,14,0,1,300,25,1.5
+chicken biryani,Mixed Dishes / Meals,170,7,22,6,1.2,2,450,30,1.2
+nihari,Meat & Poultry,250,16,8,18,0.5,1,600,35,2.2
+lassi,Beverages,110,3.5,12,5,0,10,50,120,0.2
+chicken karahi,Meat & Poultry,210,17,5,15,0.5,1,500,25,1.4
+halwa puri,Snacks,320,6,45,14,2,20,300,40,1.2
+chai,Beverages,45,1.5,6,1.5,0,5,20,60,0.05
+haleem,Legumes,180,12,20,6,3,1,450,40,2.5
+chicken burger,Snacks,295,14,30,12,2,6,550,80,2
+pizza slice,Snacks,285,12,33,10,2.3,3.8,640,180,2.1
+french fries,Snacks,312,3.4,41,15,3.8,0.3,210,18,0.9
+buttered toast,Grains & Cereals,350,7,40,18,2,4,450,70,2.5
+chicken sandwich,Snacks,260,15,28,10,2,3,520,90,2.2
+milk chocolate,Snacks,535,7,59,30,3.4,52,80,190,3.1
+cola,Beverages,42,0,10.6,0,0,10.4,10,2,0
+plain biscuits,Snacks,480,6,65,20,2,20,350,40,3.5
+spaghetti cooked,Grains & Cereals,158,5.5,30,3,2.1,4,300,25,1.2
+fried chicken,Meat & Poultry,320,25,12,20,0,0,700,50,2.1
+milkshake,Beverages,150,4,20,5,0,18,90,150,0.2
+donut,Snacks,452,5,51,25,2,25,320,40,1.8
